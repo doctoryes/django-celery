@@ -5,6 +5,14 @@
 .. contents::
     :local:
 
+.. _version-3.2.1+edx.2:
+
+3.2.1+edx.2
+===========
+:release-date: 2017-12-08
+
+- Fix the rate limiting Django admin action to work with Django 1.10+
+
 .. _version-3.2.1+edx.1:
 
 3.2.1+edx.1
