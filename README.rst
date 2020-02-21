@@ -1,10 +1,12 @@
+Looking for sponsor for working on django 1.11 to 2.2 support https://github.com/celery/django-celery/issues/568
+
 ===============================================
  django-celery - Celery Integration for Django
 ===============================================
 
-.. image:: http://cloud.github.com/downloads/celery/celery/celery_128.png
+.. image:: https://user-images.githubusercontent.com/26336/59113881-917c5180-890b-11e9-9863-f5a98d0e235e.png
 
-:Version: 3.2.0
+:Version: 3.3.1
 :Web: http://celeryproject.org/
 :Download: http://pypi.python.org/pypi/django-celery/
 :Source: http://github.com/celery/django-celery/
@@ -167,4 +169,9 @@ This software is licensed under the ``New BSD License``. See the ``LICENSE``
 file in the top distribution directory for the full license text.
 
 .. # vim: syntax=rst expandtab tabstop=4 shiftwidth=4 shiftround
+
+django-celery as part of the Tidelift Subscription
+=======
+
+The maintainers of django-celery and thousands of other packages are working with Tidelift to deliver commercial support and maintenance for the open source dependencies you use to build your applications. Save time, reduce risk, and improve code health, while paying the maintainers of the exact dependencies you use. [Learn more.](https://tidelift.com/subscription/pkg/pypi-django-celery?utm_source=pypi-django-celery&utm_medium=referral&utm_campaign=readme&utm_term=repo)
 
